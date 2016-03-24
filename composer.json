@@ -1,0 +1,13 @@
+{
+    "name": "dendy/test",
+        "autoload": {
+            "classmap": [
+                "app/lib",
+                "app/controller",
+                "app/model",
+                "app/view",
+                "public"
+            ]
+        }
+
+}
